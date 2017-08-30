@@ -1,0 +1,9 @@
+F:\kyrsu_C#\HW1\HW1_108_331а_554\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\kyrsu_C#\HW1\HW1_108_331а_554\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\kyrsu_C#\HW1\HW1_108_331а_554\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\kyrsu_C#\HW1\HW1_108_331а_554\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form.resources
+F:\kyrsu_C#\HW1\HW1_108_331а_554\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\kyrsu_C#\HW1\HW1_108_331а_554\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\kyrsu_C#\HW1\HW1_108_331а_554\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\kyrsu_C#\HW1\HW1_108_331а_554\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\kyrsu_C#\HW1\HW1_108_331а_554\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
